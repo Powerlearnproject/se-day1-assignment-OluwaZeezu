@@ -8,3 +8,45 @@ Innovation: Software engineering is at the forefront of technological advancemen
 The Software Crisis (1960s-1970s): As software systems became larger and more complex, there was a growing realization that traditional development methods were inadequate. Projects were often late, over budget, and delivered products of poor quality.
 Object-Oriented Programming (OOP) (1980s-1990s): OOP introduced a paradigm shift in software development by focusing on objects, which encapsulate data and behavior. This approach promoted code reusability, modularity, and maintainability.
 Agile Software Development (2000s): Agile methodologies, such as Scrum and Kanban, emerged as a response to the limitations of traditional waterfall models. They emphasized iterative development, flexibility, and customer collaboration.
+waterfall methodology is sequential while agile is iterative. waterfall methodology is rigid while agile is flexible. waterfall is plan driven while agile is customer centric
+waterfall methodology can be used in constructing a buiding, agile methodology for developing mobile apps
+Software Developer: Writes and maintains code. Collaborates with other team members. Solves technical problems.
+Quality Assurance Engineer: Tests software for defects. Develops test cases and scripts. Ensures quality standards are met.
+Project Manager: Oversees the project's progress  Manages resources and budget.
+Communicates with stakeholders.
+Integrated Developmet Environments
+Provide a comprehensive environment for software development.
+Features include code editing, debugging, and build automation.
+Examples: Visual Studio, Eclipse, IntelliJ IDEA.
+Version Ccontrol Systems 
+Track changes to source code over time.
+Enable collaboration among multiple developers.
+Examples: Git, SVN, Mercurial.
+Challenges faced by software engineers:
+Changing Requirements: Embrace flexibility and use Agile methodologies.
+Technical Difficulties: Seek help from experts, use debugging tools, and learn from mistakes.
+Tight Deadlines: Prioritize tasks, optimize processes, and communicate effectively.
+Strategies to resolve them:
+Effective Communication: Maintain open channels with team members and stakeholders.
+Continuous Learning: Stay updated on the latest technologies and trends.
+Problem-Solving Skills: Develop a systematic approach to solving technical challenges.
+
+Unit Testing
+Tests individual units of code (functions or methods).
+Ensures that each unit works as expected.
+Integration Testing
+Tests the interaction between different components or modules.
+Verifies that they integrate seamlessly.
+System Testing
+Tests the entire system as a whole.
+Ensures that it meets the specified requirements.
+Acceptance Testing
+Tests the system from the user's perspective.
+Verifies that it satisfies the needs of the stakeholders.
+
+Part 2
+
+
+
+
+
